@@ -1,4 +1,4 @@
-#profile-title: NOVA VPN
+#profile-title:⚡ NOVA VPN⚡ 
 #profile-update-interval: 1
 vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@46.183.21.169:443?flow=xtls-rprx-vision&security=reality&sni=mxzfn.klyck.online&fp=firefox&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@46.183.21.169:443?flow=xtls-rprx-vision&security=reality&sni=mxzfn.klyck.online&fp=firefox&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
