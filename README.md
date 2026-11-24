@@ -1,20 +1,61 @@
 #profile-title: NOVA VPN
 #profile-update-interval: 1
-hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?sni=abr.ntsrc.xyz&fp=firefox&alpn=h2%2Ch3#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?sni=abr.ntsrc.xyz&fp=firefox&alpn=h2%2Ch3#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://13e217b6-cf58-4e5a-b9bd-1d546232d02a@189.74.116.41:443?flow=xtls-rprx-vision&security=reality&sni=api.oblachnyservis.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://13e217b6-cf58-4e5a-b9bd-1d546232d02a@189.74.115.3:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?flow=xtls-rprx-vision&security=tls&sni=185.200.199.122&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://f90ff217-d3ac-4be1-b5ce-86dee5d0e230@37.32.42.125:26061?encryption=mlkem768x25519plus.native.0rtt.aCyHWhYKQdyMXWHiCt0n0xJefdTk77V4-fqxhJzZg1c&security=reality&sni=aparat.com&fp=firefox&pbk=b0Lktn3zKpk-9K8iDBxeCXo6dI9e7-EuMeZCmG90NRQ&sid=587512fcde507a56&type=xhttp&host=channel.varna-rp.ir&path=%2FDeliverycactus&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://9f897d48-22f9-4ea2-9bb8-456447c70ec4@151.101.1.242:443?security=tls&sni=guessable-turnpikes.cdn-content.com&fp=firefox&type=ws&host=guessable-turnpikes.cdn-content.com&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@195.209.217.220:443?flow=xtls-rprx-vision&security=reality&sni=ruhsds738.gangtype.com&fp=firefox&pbk=DHNvz0B_jGSTq2uK8Sehqo1u6Vv-fSSvk6-cRQJUKHM&sid=8aaef249c24f2be7#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://216a03d5-bc3c-40c6-a2fd-dc153dbb3867@45.67.215.21:443?security=tls&sni=mama147.baklajann.ru&alpn=h2%2Ch3%2Chttp%2F1.1&fp=firefox&type=xhttp&path=%2F&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://e36585ea-95c6-47fa-8bea-c08eea04c6f3@23.94.192.66:6884?flow=xtls-rprx-vision&security=reality&sni=sg-hyp-api.hoyoverse.com&fp=firefox&pbk=69nEhJ685-NtSYDnd0OtOcTzL36YFLS0TkkR3NQSfC4#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiNDcuMjQyLjgxLjk0IiwicG9ydCI6IjUyMDgwIiwiaWQiOiJlNDdiOWY3Ny02MGU0LTQ3MzgtOGQ1My03NzJiNjAwMmUxNDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im9wZW5haS5jb20iLCJwYXRoIjoiL1FRcXVuLTczNzgwNTQ0MyIsInRscyI6IiJ9#%F0%9F%87%AD%F0%9F%87%B0%20%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-nl.chick-chirik.com#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@46.183.21.169:443?flow=xtls-rprx-vision&security=reality&sni=mxzfn.klyck.online&fp=firefox&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@46.183.21.169:443?flow=xtls-rprx-vision&security=reality&sni=mxzfn.klyck.online&fp=firefox&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://9bd0f300-082d-4bf3-9f9a-6df689d36b2b@45.14.165.62:11811?flow=xtls-rprx-vision&security=reality&sni=cdn.dom.gosuslugi.ru&fp=firefox&pbk=lDw4rTS3T3KS11F92ZtDMJGmbdUJn_IdwpUNgZhGPko&sid=3a#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://b7b47b89-224d-4e76-956a-f922bb706bcf@5.175.179.160:8443?flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=firefox&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://0250281e-40a2-4382-b255-bf7975656a9f@188.137.236.63:15470?encryption=mlkem768x25519plus.native.0rtt.zxPnV8JfYCCBaYEMhAz0LUK2vVHy4JlbyNoQGAL_zFE&security=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+
+{
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "udp": true
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "test.dawn-eagle.test-cdn-kkk.com",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision",
+                                "id": "d02282d9-34c3-4c64-93aa-e3623d710ec8"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "realitySettings": {
+                    "fingerprint": "qq",
+                    "publicKey": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+                    "serverName": "quick.lizeg.ru",
+                    "shortId": "50"
+                },
+                "security": "reality"
+            }
+        }
+    ]
+}
+
+vless://f944f0ab-811c-479c-966a-d6ab6ea3f6fc@93.152.212.201:443?type=xhttp&security=reality&fp=firefox&sni=decdn.storage-serv.online&pbk=6nIgP_tiEDkDZVfAaEjElLdBTE7M-bctPjNsox6jfQg&sid=2d439b5bcaef7c4b&path=%2Fapi%2Fconvert%2Fstream%2F&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%233
+vless://a38e3651-a36c-445d-87e1-336a7855edb4@13.143.198.140:443?type=grpc&security=reality&fp=firefox&sni=blg01.deflink.net&pbk=pqZCztpkaSLv6LDBXXoxYRCclCC85M7LfxEAg3-RDDI&sid=844ca9e88fa64958&serviceName=grpc-tunnel&mode=multi#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%231
+vless://a38e3651-a36c-445d-87e1-336a7855edb4@13.143.198.140:443?type=grpc&security=reality&fp=firefox&sni=blg01.deflink.net&pbk=pqZCztpkaSLv6LDBXXoxYRCclCC85M7LfxEAg3-RDDI&sid=844ca9e88fa64958&serviceName=grpc-tunnel&mode=multi#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%231
+vless://a38e3651-a36c-445d-87e1-336a7855edb4@13.143.198.140:443?type=grpc&security=reality&fp=firefox&sni=blg01.deflink.net&pbk=pqZCztpkaSLv6LDBXXoxYRCclCC85M7LfxEAg3-RDDI&sid=844ca9e88fa64958&serviceName=grpc-tunnel&mode=multi#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%231
+vless://ca5b2bab-e5f7-4dd4-a4b7-ebd4a34a02ca@78.17.215.120:443?type=grpc&security=reality&fp=firefox&sni=viston-de-2-site.zalupa231313.shop&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&sid=a1b2c3d4&serviceName=vless-grpc#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%232
+
+vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=144.hexdey.com&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc#LTE%2F5G+%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%F0%9F%87%AA%F0%9F%87%BA
+
 vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@mxzfn.klyck.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=mxzfn.klyck.online&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9+VPN+tg%3AVLESSFORU+%F0%9F%87%B8%F0%9F%87%AA
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.176.128.128:443?type=xhttp&security=tls&fp=chrome&sni=tgg.fastcon.cc&path=%2Fclips%2Fhls%2Fv4%2F&host=tgg.fastcon.cc&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%228192-16384%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22seqKey%22%3A%22page%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22sid%22%2C%22sessionIDLength%22%3A%2220-24%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22uplinkChunkSize%22%3A%222048-3072%22%2C%22uplinkDataKey%22%3A%22X-Client-Data%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%2224-48%22%2C%22xPaddingHeader%22%3A%22X-Request-Id%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22header%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A3%7D%7D&alpn=h2#LTE%2F5G+TgOnly+%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%F0%9F%87%AA%F0%9F%87%BA
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.176.128.128:443?type=xhttp&security=tls&fp=firefox&sni=tgp.fastcon.cc&path=%2Fstorage%2Fblob%2Fv2%2F&host=tgp.fastcon.cc&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%22262144-524288%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22seqKey%22%3A%22part%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22upload_id%22%2C%22sessionIDLength%22%3A%2220-24%22%2C%22sessionIDPlacement%22%3A%22query%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22xPaddingBytes%22%3A%2224-48%22%2C%22xPaddingHeader%22%3A%22X-Request-Id%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22header%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%223%22%7D%7D&alpn=h2#LTE%2F5G+TgOnly+%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%F0%9F%87%AA%F0%9F%87%BA
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birch.kryonix.space:443?type=xhttp&security=tls&fp=firefox&sni=birch.kryonix.space&path=%2Fapi%2Fapi_v2%2Fmediaupload_process&host=birch.kryonix.space&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2216-32%22%2C%22hMaxReusableSecs%22%3A%22120-240%22%2C%22maxConnections%22%3A2%7D%2C%22seqKey%22%3A%22segment%22%2C%22noSSEHeader%22%3Afalse%2C%22xPaddingKey%22%3A%22cacheVersion%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22media_session%22%2C%22uplinkDataKey%22%3A%22data%22%2C%22xPaddingBytes%22%3A%2264-320%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22xPaddingHeader%22%3A%22Referer%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDLength%22%3A%2222-30%22%2C%22uplinkChunkSize%22%3A%224096-6144%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxBufferedPosts%22%3A512%2C%22scMaxEachPostBytes%22%3A%2220480-24576%22%2C%22sessionIDPlacement%22%3A%22query%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A%222-3%22%2C%22serverMaxHeaderBytes%22%3A262144%7D&alpn=h2#LTE%2F5G+%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%F0%9F%87%AA%F0%9F%87%BA
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@185.185.71.4:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=rusbox603.richhoodfoc.com&pbk=uEHxXC_aaWpGm10DyrjKW5YaHplOb_lAjxSOwasTQmA&sid=ce0bab2245640050#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9+VPN+tg%3AVLESSFORU+%F0%9F%87%B3%F0%9F%87%B1
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@hzkjm.klyck.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=hzkjm.klyck.online&pbk=pdyae3nJy_oGSKS6bcKDRujDmvcJuu31n6DOkVYvvlw&sid=635d40276db3b2de#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9+VPN+tg%3AVLESSFORU+%F0%9F%87%AB%F0%9F%87%AE
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.72:8443?type=xhttp&security=tls&fp=chrome&sni=plaindune.com&path=%2Fapi%2Fv1%2Fupload&host=plaindune.com&mode=auto&extra=null#LTE%2F5G+%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%F0%9F%87%AA%F0%9F%87%BA
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@5.59.205.105:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=de.chick-chirik.com&pbk=bi6nc3_PcMa3ZxOkUH87JrRz8E7yiBJpv6Qnr46HCDY&sid=4098a82e9c343413#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9+VPN+tg%3AVLESSFORU+%F0%9F%87%A9%F0%9F%87%AA
