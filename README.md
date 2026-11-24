@@ -1,4 +1,4 @@
-#profile-title: NOVA VPN
+#profile-title: ⚡ NOVA VPN⚡ 
 #profile-update-interval: 1
 vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?security=tls&sni=aszbk-ru-78dc.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://3493b1bc-1c65-46e6-9cb6-9dd62b99afea@45.67.215.21:443?security=tls&sni=mama147.baklajann.ru&alpn=h2%2Ch3%2Chttp%2F1.1&fp=firefox&type=xhttp&path=%2F&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%7C%20%F0%9F%94%97%20%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%5B%23%D0%A0%D0%9A%D0%9F%5D
