@@ -1,4 +1,5 @@
 #profile-title:⚡ NOVA VPN⚡ 
+
 #profile-update-interval: 1
 vless://9bd0f300-082d-4bf3-9f9a-6df689d36b2b@45.14.165.62:11811?flow=xtls-rprx-vision&security=reality&sni=cdn.dom.gosuslugi.ru&fp=firefox&pbk=lDw4rTS3T3KS11F92ZtDMJGmbdUJn_IdwpUNgZhGPko&sid=3a#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://4e932df2-a06a-4043-861c-87fe8d217aae@70.34.200.37:40118?security=reality&sni=aparat.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c077229044b68285#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
